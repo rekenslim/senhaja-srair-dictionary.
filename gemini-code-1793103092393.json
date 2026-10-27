@@ -1,0 +1,72 @@
+[
+  {
+    "id": "sen-001",
+    "woord_senhaja": "aman",
+    "tifinagh": "ⴰⵎⴰⵏ",
+    "nederlands": "water",
+    "engels": "water",
+    "categorie": "zelfstandig naamwoord",
+    "geslacht": "mannelijk meervoud (tantum)",
+    "fonetiek": "[a.man]",
+    "stam_regio": "Algemeen Senhaja Srair"
+  },
+  {
+    "id": "sen-002",
+    "woord_senhaja": "aγrum",
+    "invoer_gebruiker": "aghroum",
+    "tifinagh": "ⴰⵖⵔⵓⵎ",
+    "nederlands": "brood",
+    "engels": "bread",
+    "categorie": "zelfstandig naamwoord",
+    "geslacht": "mannelijk enkelvoud",
+    "fonetiek": "[aʁ.rum]",
+    "stam_regio": "Algemeen Senhaja Srair"
+  },
+  {
+    "id": "sen-003",
+    "woord_senhaja": "addu",
+    "invoer_gebruiker": "addou",
+    "tifinagh": "ⴰⴷⴷⵓ",
+    "nederlands": "kom",
+    "engels": "come",
+    "categorie": "werkwoord (gebiedende wijs)",
+    "fonetiek": "[ad.du]",
+    "stam_regio": "Algemeen Senhaja Srair"
+  },
+  {
+    "id": "sen-004",
+    "woord_senhaja": "addu swina",
+    "invoer_gebruiker": "addou swina",
+    "tifinagh": "ⴰⴷⴷⵓ ⵙⵡⵉⵏⴰ",
+    "nederlands": "kom van daar naar hier",
+    "engels": "come over here",
+    "categorie": "uitdrukking / zin",
+    "fonetiek": "[ad.du swi.na]",
+    "stam_regio": "Algemeen Senhaja Srair"
+  },
+  {
+    "id": "sen-005",
+    "woord_senhaja": "kayd",
+    "invoer_gebruiker": "kayd",
+    "tifinagh": "Ik heb het eerste document met de volledige databank van **27 woorden, werkwoorden en zinnen** klaargezet in een document:
+
+[Senhaja_Srair_Woordenboek_V1](https://docs.google.com/document/d/1VMHuN305pxvq203QvifdF_lQpGF2wWrmw48Maz75KDs/edit?usp=drivesdk&ouid=114071379622973980150)
+[file-tag: drive-uploaded-file-1VMHuN305pxvq203QvifdF_lQpGF2wWrmw48Maz75KDs]
+
+---
+
+### Hoe publiceren op GitHub (3 stappen):
+
+1. **Maak een GitHub account aan** (indien je die nog niet hebt) op [github.com](https://github.com).
+2. **Maak een nieuwe Repository aan**:
+   * Klik op het **+** icoontje rechtsboven $\rightarrow$ **New repository**.
+   * Geef het een naam, bijvoorbeeld: `senhaja-srair-dictionary`.
+   * Zet de status op **Public** en vink *Add a README file* aan.
+3. **Voeg het bestand toe**:
+   * Klik op **Add file** $\rightarrow$ **Create new file**.
+   * Noem het bestand `words.json`.
+   * Plak de JSON-code uit het document hierboven erin en klik onderaan op **Commit changes**.
+
+Zodra je dit hebt gedaan, is je Senhaja Srair-databank direct wereldwijd openbaar toegankelijk via GitHub!
+
+Wil je doorgaan met de volgende reeks woorden, zinnen of grammaticaregels?
